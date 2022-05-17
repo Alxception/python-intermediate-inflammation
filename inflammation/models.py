@@ -6,6 +6,7 @@ Patients' data is held in an inflammation table (2D array) where each row contai
 inflammation data for a single patient taken over a number of days 
 and each column represents a single day across all patients.
 """
+##ALEX changes##
 
 import numpy as np
 
